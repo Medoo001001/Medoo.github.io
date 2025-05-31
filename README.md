@@ -1,1 +1,40 @@
-# Medoo.github.io
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الدعم المالي</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #222;
+            text-align: center;
+            padding: 50px;
+        }
+        .card {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #e60000;
+        }
+        .number {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+            color: #007b00;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>شكراً لدعمك!</h1>
+        <p>للدعم عن طريق فودافون كاش أو أي محفظة إلكترونية يرجى استخدام الرقم التالي:</p>
+        <div class="number">01202362917</div>
+    </div>
+</body>
+</html>
